@@ -1,0 +1,6 @@
+import "core-js/es6";
+import "core-js/es6/reflect";
+import "zone.js/dist/zone";
+import "@angular/common";
+import "@angular/compiler";
+import "reflect-metadata";
